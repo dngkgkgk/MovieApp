@@ -2,12 +2,7 @@ import React, { useState } from "react";
 import styled from "styled-components";
 import Nav from "./components/Nav";
 
-const MainStyle = styled.div`
-  background-image: url("https://washington-org.s3.amazonaws.com/s3fs-public/styles/listicle_image/public/columbia-pike-event_drive-inmovienights_1500x720.jpg?itok=492q6AjG");
-  height: 1060px;
-  width: 1905px;
-  background-size: 100% 100%;
-`;
+const MainStyle = styled.div``;
 
 const SearchDivStyle = styled.div`
   background-color: white;
@@ -26,6 +21,7 @@ const SearchDivStyle = styled.div`
 const SearchInput = styled.input`
   width: 800px;
   height: 45px;
+  border-radius: 5px 5px 5px 5px;
 `;
 
 const SearchAreaStyle = styled.textarea`
