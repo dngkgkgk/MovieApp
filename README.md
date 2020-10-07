@@ -1,5 +1,11 @@
 # Movie app
 
+### 이미지
+![등록](https://user-images.githubusercontent.com/40719484/95274305-5f249080-0880-11eb-8e47-f534193b88d7.PNG)
+
+![목록](https://user-images.githubusercontent.com/40719484/95274316-6481db00-0880-11eb-8632-eae0d17caaf3.PNG)
+![바꾸기](https://user-images.githubusercontent.com/40719484/95274322-68adf880-0880-11eb-9091-9c7c564d7900.PNG)
+
 ### 설치
 
 - npx create-react-app movie-app
