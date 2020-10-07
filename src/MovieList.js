@@ -63,6 +63,7 @@ const MovieList = () => {
       .then((res) => res.text())
       .then((res) => {
         if (res === "ok") {
+          alert("삭제되었습니다");
           setMovies(movies.filter((movies) => movies.id !== id));
         }
       });
